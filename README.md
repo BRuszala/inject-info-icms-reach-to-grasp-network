@@ -2,7 +2,7 @@
 
 The goal of this project was to determine in which of 5 cortical regions in the cortical reach-to-grasp network information could be injected via low-amplitude ICMS: primary somatosensory cortex (S1), ventral premotor cortex (PMv), dorsal premotor cortex (PMd), anterior intraparietal area (AIP), or dorsal posterior pareital cortex (dPPC).  
 
-This repository contains .h5 fiels with all task parameters and behavioral data, .ns2 files with analog signals of the joystick movements and curosor position of the screen sampled at 1 kHz, and .nev files that contain event markers to identifiy individual epochs of the task:
+This repository contains .h5 files with all task parameters and behavioral data, .ns2 files with analog signals of the joystick movements and curosor position of the screen sampled at 1 kHz, and .nev files that contain event markers to identifiy individual epochs of the task:
 
 Event Marker Values:
 30	prior trial was an error	
